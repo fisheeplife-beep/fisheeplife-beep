@@ -8,6 +8,7 @@
 |------|--------|
 | [cn-deploy-doctor](https://github.com/fisheeplife-beep/cn-deploy-doctor) | 国内环境一键部署体检（Docker / 网络 / 镜像 / GPU / 端口） |
 | [trending-gap-radar](https://github.com/fisheeplife-beep/trending-gap-radar) | 热门仓「中文部署资料缺口」选题雷达 |
+| [cn-deploy-paperclip](https://github.com/fisheeplife-beep/cn-deploy-paperclip) | paperclip 中文部署配套（CLI / Docker / 踩坑） |
 
 #### 原则
 
