@@ -12,6 +12,7 @@
 | [cn-deploy-paperclip](https://github.com/fisheeplife-beep/cn-deploy-paperclip) | paperclip 中文部署配套（CLI / Docker / 踩坑） |
 | [cn-deploy-agent-browser](https://github.com/fisheeplife-beep/cn-deploy-agent-browser) | agent-browser 中文部署配套 |
 | [cn-deploy-openmausbot](https://github.com/fisheeplife-beep/cn-deploy-openmausbot) | OpenMausBot 中文部署配套 |
+| [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | DeskcommCRM 中文部署配套（VPS / GHCR / WhatsApp CRM） |
 
 #### 原则
 
