@@ -14,6 +14,7 @@
 | [cn-deploy-openmausbot](https://github.com/fisheeplife-beep/cn-deploy-openmausbot) | OpenMausBot 中文部署配套 |
 | [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | DeskcommCRM 中文部署配套（VPS / GHCR / WhatsApp CRM） |
 | [cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) | Lightpanda Browser 中文部署配套（二进制 / CDP / Puppeteer） |
+| [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | ThinkRail 中文部署配套（JetBrains Agentic IDE / CLI） |
 
 #### 原则
 
