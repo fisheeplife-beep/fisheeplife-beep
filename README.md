@@ -17,6 +17,7 @@
 | [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | ThinkRail 中文部署配套（JetBrains Agentic IDE / CLI） |
 | [cn-deploy-multitalk](https://github.com/fisheeplife-beep/cn-deploy-multitalk) | MultiTalk 中文部署配套（AI短剧多人对话镜头 / 口型） |
 | [cn-deploy-infinitetalk](https://github.com/fisheeplife-beep/cn-deploy-infinitetalk) | InfiniteTalk 中文部署配套（AI短剧长对白口型 / 说话镜头） |
+| [cn-deploy-latentsync](https://github.com/fisheeplife-beep/cn-deploy-latentsync) | LatentSync 中文部署配套（AI短剧成片后期修口型 / lipsync） |
 
 #### 原则
 
