@@ -15,6 +15,7 @@
 | [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | DeskcommCRM 中文部署配套（VPS / GHCR / WhatsApp CRM） |
 | [cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) | Lightpanda Browser 中文部署配套（二进制 / CDP / Puppeteer） |
 | [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | ThinkRail 中文部署配套（JetBrains Agentic IDE / CLI） |
+| [cn-deploy-multitalk](https://github.com/fisheeplife-beep/cn-deploy-multitalk) | MultiTalk 中文部署配套（AI短剧多人对话镜头 / 口型） |
 
 #### 原则
 
